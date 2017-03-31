@@ -1,0 +1,8 @@
+﻿  源.cpp
+c:\users\lining\documents\visual studio 2015\projects\fortry\fortry\源.cpp(84): warning C4101: “driver”: 未引用的局部变量
+c:\users\lining\documents\visual studio 2015\projects\fortry\fortry\源.cpp(87): warning C4101: “res”: 未引用的局部变量
+c:\users\lining\documents\visual studio 2015\projects\fortry\fortry\源.cpp(85): warning C4101: “con”: 未引用的局部变量
+c:\users\lining\documents\visual studio 2015\projects\fortry\fortry\源.cpp(88): warning C4101: “pstmt”: 未引用的局部变量
+c:\users\lining\documents\visual studio 2015\projects\fortry\fortry\源.cpp(86): warning C4101: “stmt”: 未引用的局部变量
+  ForTry.vcxproj -> C:\Users\lining\documents\visual studio 2015\Projects\ForTry\x64\Debug\ForTry.exe
+  ForTry.vcxproj -> C:\Users\lining\documents\visual studio 2015\Projects\ForTry\x64\Debug\ForTry.pdb (Partial PDB)
